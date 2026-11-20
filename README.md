@@ -5,6 +5,23 @@
 
 ## Как добавить трек
 
+Самый простой способ — интерактивный скрипт (адаптация `append_track.py`
+из FckCensorData):
+
+```bash
+pip install yandex-music yt-dlp
+python append_track.py                 # спросит id и URL
+python append_track.py 145054524       # id можно передать сразу
+python append_track.py --dry-run 145054524   # только показать запись
+```
+
+Он сам получит название/исполнителя/обложку через `yandex_music` (если в
+`.env` задать `API_TOKEN`), скопирует локальный файл или скачает URL через
+`yt-dlp`, допишет запись в `manifest.json`, сделает commit и push в `main`.
+Без `API_TOKEN` metadata придётся ввести вручную — скрипт спросит.
+
+Ручной способ:
+
 1. Положите аудиофайл в `tracks/<id>` **без расширения**, где `<id>` — id трека
    Яндекс.Музыки (например, `tracks/145054524`).
 2. Добавьте запись в массив `tracks` в `manifest.json` (пример ниже).
