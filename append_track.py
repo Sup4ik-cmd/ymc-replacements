@@ -92,42 +92,49 @@ def cached_info(track_id, token):
 
 
 def put_file(track_id, url):
-    """Copy a local file or download via yt-dlp. Returns True if a file exists."""
+    """Copy a local file or download via yt-dlp.
+
+    Returns (file_exists, thumbnail_url). The thumbnail is taken from the
+    SoundCloud/yt-dlp metadata so it can be written into manifest.json.
+    """
     TRACKS.mkdir(exist_ok=True)
     target = TRACKS / str(track_id)
     if not url:
-        return target.exists()
+        return target.exists(), None
     if not url.startswith("http"):
         src = Path(url).expanduser()
         if not src.exists():
             print("file not found:", src)
-            return False
+            return False, None
         if DRY:
             print("[dry-run] copy", src, "->", target)
-            return True
+            return True, None
         shutil.copy2(src, target)
         print("copied to", target)
-        return True
+        return True, None
     try:
         import yt_dlp
     except ImportError:
         print("yt-dlp is not installed; cannot download. pip install yt-dlp")
-        return False
+        return False, None
     answer = "y" if "soundcloud.com" in url else say("Download from url? (y/n) ").lower()
     if answer not in ("y", "yes", "д", "да"):
-        return target.exists()
+        return target.exists(), None
     opts = {"format": "bestaudio/best", "outtmpl": str(TRACKS / (str(track_id) + ".%(ext)s")),
             "quiet": False}
     if DRY:
         print("[dry-run] yt-dlp", url)
-        return True
+        return True, None
     with yt_dlp.YoutubeDL(opts) as ydl:
-        ydl.download([url])
+        info = ydl.extract_info(url, download=True)
     made = sorted(TRACKS.glob(str(track_id) + ".*"), key=lambda p: p.stat().st_mtime)
     if made:
         made[-1].replace(target)
         print("saved as", target)
-    return target.exists()
+    thumb = info.get("thumbnail") if isinstance(info, dict) else None
+    if thumb:
+        print("cover from source:", thumb)
+    return target.exists(), thumb
 
 
 def git(*args):
@@ -173,7 +180,9 @@ def main():
         cover = say("Cover path (Enter to skip): ") or None
 
     url = say("Track URL or local file path (Enter to keep existing file): ")
-    has_file = put_file(track_id, url)
+    has_file, thumb = put_file(track_id, url)
+    if not cover and thumb:
+        cover = thumb
     repair = False
     if has_file:
         repair = say("Need the trex/sidx repair? (y/N) ").lower() in ("y", "yes", "д", "да")
