@@ -1,0 +1,4 @@
+.env
+ym_cache.json
+*.part
+__pycache__/
