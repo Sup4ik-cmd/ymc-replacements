@@ -36,5 +36,177 @@
       "file": "151855585",
       "repair": true
     }
+  ],
+  "albums": [
+    {
+      "id": "990525099810",
+      "title": "Co'n'dorn",
+      "artist": "Иван Дорн",
+      "artist_id": "755171",
+      "year": "2018",
+      "cover": "https://i1.sndcdn.com/artworks-000351244626-rl4tut-large.jpg",
+      "tracks": [
+        {
+          "id": "990447539859",
+          "title": "ÐÑÐµ ÐÐ°ÑÐ°ÑÐ°Ð¼",
+          "duration_ms": 83636,
+          "file": "447539859"
+        },
+        {
+          "id": "990447539844",
+          "title": "ÐÐ¸Ð³ÑÐ´Ð¸",
+          "duration_ms": 291641,
+          "file": "447539844"
+        },
+        {
+          "id": "990447539832",
+          "title": "Ð¢ÐµÐ¼ ÐÐ¾Ð»ÐµÐµ",
+          "duration_ms": 165881,
+          "file": "447539832"
+        },
+        {
+          "id": "990447539823",
+          "title": "ÐÐµÐ½Ð°Ð²Ð¸Ð¶Ñ",
+          "duration_ms": 220054,
+          "file": "447539823"
+        },
+        {
+          "id": "990447539814",
+          "title": "Ð¨ÐºÐ¾Ð»ÑÐ½Ð¾Ðµ ÐÐºÐ½Ð¾",
+          "duration_ms": 207770,
+          "file": "447539814"
+        },
+        {
+          "id": "990447539808",
+          "title": "Северное сияние",
+          "duration_ms": 287949,
+          "file": "447539808"
+        },
+        {
+          "id": "990447539805",
+          "title": "Так сильно",
+          "duration_ms": 238095,
+          "file": "447539805"
+        },
+        {
+          "id": "990447539799",
+          "title": "Кричу",
+          "duration_ms": 165603,
+          "file": "447539799"
+        },
+        {
+          "id": "990447539793",
+          "title": "Стыцамэн",
+          "duration_ms": 232848,
+          "file": "447539793"
+        },
+        {
+          "id": "990447539787",
+          "title": "Синими, Жёлтыми, Красными (Apolo Monkeys Version)",
+          "duration_ms": 213320,
+          "file": "447539787"
+        },
+        {
+          "id": "990447539778",
+          "title": "Идолом",
+          "duration_ms": 223165,
+          "file": "447539778"
+        },
+        {
+          "id": "990447539736",
+          "title": "Стайлооо",
+          "duration_ms": 90602,
+          "file": "447539736"
+        },
+        {
+          "id": "990447539733",
+          "title": "Стыцамикс",
+          "duration_ms": 239930,
+          "file": "447539733"
+        },
+        {
+          "id": "990447539724",
+          "title": "Стыцамэн (SkyOffice Remix)",
+          "duration_ms": 307918,
+          "file": "447539724"
+        }
+      ]
+    },
+    {
+      "id": "9902310481698",
+      "title": "dorndom",
+      "artist": "Иван Дорн",
+      "artist_id": "755171",
+      "year": "2026",
+      "cover": "https://i1.sndcdn.com/artworks-5nMPWyI7zR0baIij-MH1Vpg-large.jpg",
+      "tracks": [
+        {
+          "id": "9902394440211",
+          "title": "Snob",
+          "duration_ms": 319339,
+          "file": "2394440211"
+        },
+        {
+          "id": "9902394440223",
+          "title": "Tic Tac",
+          "duration_ms": 204974,
+          "file": "2394440223"
+        },
+        {
+          "id": "9902394440196",
+          "title": "La Re",
+          "duration_ms": 250656,
+          "file": "2394440196"
+        },
+        {
+          "id": "9902394440199",
+          "title": "Dead Blogger",
+          "duration_ms": 375174,
+          "file": "2394440199"
+        },
+        {
+          "id": "9902394440193",
+          "title": "Pereday",
+          "duration_ms": 335370,
+          "file": "2394440193"
+        },
+        {
+          "id": "9902394440208",
+          "title": "Ulichnaya Percussiya",
+          "duration_ms": 289118,
+          "file": "2394440208"
+        },
+        {
+          "id": "9902394440220",
+          "title": "Luchshiy Drug",
+          "duration_ms": 383543,
+          "file": "2394440220"
+        },
+        {
+          "id": "9902395032180",
+          "title": "Hapkido Intro",
+          "duration_ms": 41101,
+          "file": "2395032180"
+        },
+        {
+          "id": "9902395032177",
+          "title": "Hapkido",
+          "duration_ms": 281564,
+          "file": "2395032177"
+        },
+        {
+          "id": "9902394440217",
+          "title": "Deboshir",
+          "duration_ms": 338241,
+          "file": "2394440217"
+        },
+        {
+          "id": "9902394440205",
+          "title": "432",
+          "duration_ms": 469145,
+          "file": "2394440205"
+        }
+      ]
+    }
   ]
 }
