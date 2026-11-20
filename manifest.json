@@ -52,7 +52,7 @@
       "title": "Co'n'dorn",
       "artist": "Иван Дорн",
       "artist_id": "755171",
-      "year": "2018",
+      "year": "2012",
       "tracks": [
         {
           "id": "990447539859",
@@ -153,7 +153,9 @@
           "play_id": "80048346"
         }
       ],
-      "host": "13484452"
+      "host": "13484452",
+      "cover": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F8b769bd8c44e6fc60a0ecc8373c6a6f5.1000x1000x1.jpg",
+      "artist_cover": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F8b769bd8c44e6fc60a0ecc8373c6a6f5.1000x1000x1.jpg"
     }
   ]
 }
