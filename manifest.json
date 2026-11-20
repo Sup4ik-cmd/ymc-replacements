@@ -7,7 +7,8 @@
       "artist": "Досвидошь",
       "artist_id": "6094646",
       "file": "146081953",
-      "repair": true
+      "repair": true,
+      "popularity": 0
     },
     {
       "id": "78803018",
@@ -16,7 +17,8 @@
       "artist": "Каникулы Бонифация",
       "artist_id": "6371674",
       "file": "78803018",
-      "repair": true
+      "repair": true,
+      "popularity": 0
     },
     {
       "id": "43410114",
@@ -25,7 +27,8 @@
       "artist": "БАНД'ЭРОС",
       "artist_id": "31218",
       "file": "43410114",
-      "repair": true
+      "repair": true,
+      "popularity": 0
     },
     {
       "id": "151855585",
@@ -34,7 +37,8 @@
       "artist": "CUPSIZE",
       "artist_id": "10946087",
       "file": "151855585",
-      "repair": true
+      "repair": true,
+      "popularity": 0
     },
     {
       "id": "111857721",
@@ -43,7 +47,8 @@
       "artist": "xxxmanera",
       "artist_id": "8548866",
       "file": "111857721",
-      "repair": true
+      "repair": true,
+      "popularity": 0
     },
     {
       "id": "990646858770",
@@ -53,7 +58,8 @@
       "artist_id": "453589",
       "file": "646858770",
       "play_id": "118113709",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 6100
     },
     {
       "id": "990646858761",
@@ -63,7 +69,8 @@
       "artist_id": "453589",
       "file": "646858761",
       "play_id": "115050154",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 4013
     },
     {
       "id": "990646858752",
@@ -73,7 +80,8 @@
       "artist_id": "453589",
       "file": "646858752",
       "play_id": "30463167",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 5551
     },
     {
       "id": "990646858740",
@@ -83,7 +91,8 @@
       "artist_id": "453589",
       "file": "646858740",
       "play_id": "102664697",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 926
     },
     {
       "id": "990646858731",
@@ -93,7 +102,8 @@
       "artist_id": "453589",
       "file": "646858731",
       "play_id": "89977237",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 838
     },
     {
       "id": "990646858728",
@@ -103,7 +113,8 @@
       "artist_id": "453589",
       "file": "646858728",
       "play_id": "86552847",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 1544
     },
     {
       "id": "990646858722",
@@ -113,7 +124,8 @@
       "artist_id": "453589",
       "file": "646858722",
       "play_id": "85330007",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 6242
     },
     {
       "id": "990646858710",
@@ -123,7 +135,8 @@
       "artist_id": "453589",
       "file": "646858710",
       "play_id": "76767896",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 9469
     },
     {
       "id": "990646858704",
@@ -133,7 +146,8 @@
       "artist_id": "453589",
       "file": "646858704",
       "play_id": "154879017",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 3120
     },
     {
       "id": "990646858695",
@@ -143,7 +157,8 @@
       "artist_id": "453589",
       "file": "646858695",
       "play_id": "98739905",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 2317
     },
     {
       "id": "990646858689",
@@ -153,7 +168,8 @@
       "artist_id": "453589",
       "file": "646858689",
       "play_id": "140096914",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 2345
     },
     {
       "id": "990646855701",
@@ -163,7 +179,8 @@
       "artist_id": "453589",
       "file": "646855701",
       "play_id": "17179",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 21618
     },
     {
       "id": "990646855695",
@@ -173,7 +190,8 @@
       "artist_id": "453589",
       "file": "646855695",
       "play_id": "524546",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 17515
     },
     {
       "id": "990646855689",
@@ -183,7 +201,8 @@
       "artist_id": "453589",
       "file": "646855689",
       "play_id": "133605488",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 119731
     },
     {
       "id": "990646855686",
@@ -193,7 +212,8 @@
       "artist_id": "453589",
       "file": "646855686",
       "play_id": "46014950",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 33736
     },
     {
       "id": "990646855674",
@@ -203,7 +223,8 @@
       "artist_id": "453589",
       "file": "646855674",
       "play_id": "40250262",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 17844
     },
     {
       "id": "990646855668",
@@ -213,7 +234,8 @@
       "artist_id": "453589",
       "file": "646855668",
       "play_id": "150139411",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 35971
     },
     {
       "id": "990646855662",
@@ -223,7 +245,8 @@
       "artist_id": "453589",
       "file": "646855662",
       "play_id": "597231",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 120032
     },
     {
       "id": "990646855653",
@@ -233,7 +256,8 @@
       "artist_id": "453589",
       "file": "646855653",
       "play_id": "153910904",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 20909
     },
     {
       "id": "990646851510",
@@ -243,7 +267,8 @@
       "artist_id": "453589",
       "file": "646851510",
       "play_id": "108484183",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 12622
     },
     {
       "id": "990646851507",
@@ -253,7 +278,8 @@
       "artist_id": "453589",
       "file": "646851507",
       "play_id": "58548079",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 27554
     },
     {
       "id": "990646851501",
@@ -263,7 +289,8 @@
       "artist_id": "453589",
       "file": "646851501",
       "play_id": "20712539",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 80943
     },
     {
       "id": "990646851489",
@@ -273,7 +300,8 @@
       "artist_id": "453589",
       "file": "646851489",
       "play_id": "151891397",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 72789
     },
     {
       "id": "990646851483",
@@ -283,7 +311,8 @@
       "artist_id": "453589",
       "file": "646851483",
       "play_id": "29598557",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 18656
     },
     {
       "id": "990646851477",
@@ -293,7 +322,8 @@
       "artist_id": "453589",
       "file": "646851477",
       "play_id": "1710811",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 138673
     },
     {
       "id": "990646851468",
@@ -303,7 +333,8 @@
       "artist_id": "453589",
       "file": "646851468",
       "play_id": "79162829",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 147778
     },
     {
       "id": "990646851465",
@@ -313,7 +344,8 @@
       "artist_id": "453589",
       "file": "646851465",
       "play_id": "44134242",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 12154
     },
     {
       "id": "990646851462",
@@ -323,7 +355,8 @@
       "artist_id": "453589",
       "file": "646851462",
       "play_id": "18079494",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 67109
     },
     {
       "id": "990646851459",
@@ -333,7 +366,8 @@
       "artist_id": "453589",
       "file": "646851459",
       "play_id": "93622658",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 15273
     },
     {
       "id": "990646851453",
@@ -343,7 +377,8 @@
       "artist_id": "453589",
       "file": "646851453",
       "play_id": "57956215",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 15282
     },
     {
       "id": "990646851444",
@@ -353,7 +388,8 @@
       "artist_id": "453589",
       "file": "646851444",
       "play_id": "580880",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 37273
     },
     {
       "id": "990646851438",
@@ -363,7 +399,8 @@
       "artist_id": "453589",
       "file": "646851438",
       "play_id": "76664059",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 45896
     },
     {
       "id": "990646851429",
@@ -373,7 +410,8 @@
       "artist_id": "453589",
       "file": "646851429",
       "play_id": "34965072",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 107193
     },
     {
       "id": "990646847088",
@@ -383,7 +421,8 @@
       "artist_id": "453589",
       "file": "646847088",
       "play_id": "62909427",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 19695
     },
     {
       "id": "990646847079",
@@ -393,7 +432,8 @@
       "artist_id": "453589",
       "file": "646847079",
       "play_id": "61206877",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 91424
     },
     {
       "id": "990646847070",
@@ -403,7 +443,8 @@
       "artist_id": "453589",
       "file": "646847070",
       "play_id": "150673836",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 34540
     },
     {
       "id": "990646847061",
@@ -413,7 +454,8 @@
       "artist_id": "453589",
       "file": "646847061",
       "play_id": "107669782",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 46587
     },
     {
       "id": "990646847052",
@@ -423,7 +465,8 @@
       "artist_id": "453589",
       "file": "646847052",
       "play_id": "4899760",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 20327
     },
     {
       "id": "990646847046",
@@ -433,7 +476,8 @@
       "artist_id": "453589",
       "file": "646847046",
       "play_id": "802",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 46240
     },
     {
       "id": "990646847022",
@@ -443,7 +487,8 @@
       "artist_id": "453589",
       "file": "646847022",
       "play_id": "79737908",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 172626
     },
     {
       "id": "990646847013",
@@ -453,7 +498,8 @@
       "artist_id": "453589",
       "file": "646847013",
       "play_id": "147452401",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 9142
     },
     {
       "id": "990646847007",
@@ -463,7 +509,8 @@
       "artist_id": "453589",
       "file": "646847007",
       "play_id": "37077865",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 44978
     },
     {
       "id": "990646846989",
@@ -473,7 +520,8 @@
       "artist_id": "453589",
       "file": "646846989",
       "play_id": "146636342",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 86685
     },
     {
       "id": "990646846983",
@@ -483,7 +531,8 @@
       "artist_id": "453589",
       "file": "646846983",
       "play_id": "132742640",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 5419
     },
     {
       "id": "990646846965",
@@ -493,7 +542,8 @@
       "artist_id": "453589",
       "file": "646846965",
       "play_id": "61249332",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 17808
     },
     {
       "id": "990646846959",
@@ -503,7 +553,8 @@
       "artist_id": "453589",
       "file": "646846959",
       "play_id": "73869153",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 37219
     },
     {
       "id": "990646846932",
@@ -513,7 +564,8 @@
       "artist_id": "453589",
       "file": "646846932",
       "play_id": "4765029",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 7267
     },
     {
       "id": "990646846923",
@@ -523,7 +575,8 @@
       "artist_id": "453589",
       "file": "646846923",
       "play_id": "95325264",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 101393
     },
     {
       "id": "990646846911",
@@ -533,7 +586,8 @@
       "artist_id": "453589",
       "file": "646846911",
       "play_id": "139999932",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 11371
     },
     {
       "id": "990304116286",
@@ -543,7 +597,8 @@
       "artist_id": "453589",
       "file": "304116286",
       "play_id": "64740133",
-      "duration_ms": 120000
+      "duration_ms": 120000,
+      "popularity": 23118
     }
   ],
   "albums": [
