@@ -44,6 +44,447 @@
       "artist_id": "8548866",
       "file": "111857721",
       "repair": true
+    },
+    {
+      "id": "990646858770",
+      "title": "Всё решено",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858770",
+      "play_id": "118113709"
+    },
+    {
+      "id": "990646858761",
+      "title": "На Кайене",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858761",
+      "play_id": "115050154"
+    },
+    {
+      "id": "990646858752",
+      "title": "Рустем",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858752",
+      "play_id": "30463167"
+    },
+    {
+      "id": "990646858740",
+      "title": "Broken Heart",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858740",
+      "play_id": "102664697"
+    },
+    {
+      "id": "990646858731",
+      "title": "Песня для девочек",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858731",
+      "play_id": "89977237"
+    },
+    {
+      "id": "990646858728",
+      "title": "Лишь однажды",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858728",
+      "play_id": "86552847"
+    },
+    {
+      "id": "990646858722",
+      "title": "Я бью женщин и детей",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858722",
+      "play_id": "85330007"
+    },
+    {
+      "id": "990646858710",
+      "title": "Я ночью плачу",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858710",
+      "play_id": "76767896"
+    },
+    {
+      "id": "990646858704",
+      "title": "Бувай",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858704",
+      "play_id": "154879017"
+    },
+    {
+      "id": "990646858695",
+      "title": "3",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858695",
+      "play_id": "98739905"
+    },
+    {
+      "id": "990646858689",
+      "title": "Район вiдiмкнуто вiд мереж",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646858689",
+      "play_id": "140096914"
+    },
+    {
+      "id": "990646855701",
+      "title": "Ускользает",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646855701",
+      "play_id": "17179"
+    },
+    {
+      "id": "990646855695",
+      "title": "О брат",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646855695",
+      "play_id": "524546"
+    },
+    {
+      "id": "990646855689",
+      "title": "92",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646855689",
+      "play_id": "133605488"
+    },
+    {
+      "id": "990646855686",
+      "title": "Решится само собой",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646855686",
+      "play_id": "46014950"
+    },
+    {
+      "id": "990646855674",
+      "title": "Делать это трезвым",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646855674",
+      "play_id": "40250262"
+    },
+    {
+      "id": "990646855668",
+      "title": "Тени",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646855668",
+      "play_id": "150139411"
+    },
+    {
+      "id": "990646855662",
+      "title": "Бесполезно",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646855662",
+      "play_id": "597231"
+    },
+    {
+      "id": "990646855653",
+      "title": "Подворотня - мой дом",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646855653",
+      "play_id": "153910904"
+    },
+    {
+      "id": "990646851510",
+      "title": "Самый Лучший Друг",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851510",
+      "play_id": "108484183"
+    },
+    {
+      "id": "990646851507",
+      "title": "Офисный Стиляга",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851507",
+      "play_id": "58548079"
+    },
+    {
+      "id": "990646851501",
+      "title": "Все Мои Друзья",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851501",
+      "play_id": "20712539"
+    },
+    {
+      "id": "990646851489",
+      "title": "Знаешь, Таня",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851489",
+      "play_id": "151891397"
+    },
+    {
+      "id": "990646851483",
+      "title": "Космос Нас Ждёт",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851483",
+      "play_id": "29598557"
+    },
+    {
+      "id": "990646851477",
+      "title": "Кладбище Самолётов",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851477",
+      "play_id": "1710811"
+    },
+    {
+      "id": "990646851468",
+      "title": "Ты Не Такая",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851468",
+      "play_id": "79162829"
+    },
+    {
+      "id": "990646851465",
+      "title": "Танцы",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851465",
+      "play_id": "44134242"
+    },
+    {
+      "id": "990646851462",
+      "title": "Ебашь, Альбина",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851462",
+      "play_id": "18079494"
+    },
+    {
+      "id": "990646851459",
+      "title": "Преждевременное Семяизвержение",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851459",
+      "play_id": "93622658"
+    },
+    {
+      "id": "990646851453",
+      "title": "Сега - Винтовар",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851453",
+      "play_id": "57956215"
+    },
+    {
+      "id": "990646851444",
+      "title": "Я Стараюсь Быть Лучше",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851444",
+      "play_id": "580880"
+    },
+    {
+      "id": "990646851438",
+      "title": "Взрослые Травмы",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851438",
+      "play_id": "76664059"
+    },
+    {
+      "id": "990646851429",
+      "title": "Улица Сталеваров",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646851429",
+      "play_id": "34965072"
+    },
+    {
+      "id": "990646847088",
+      "title": "Отель Кооператор",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646847088",
+      "play_id": "62909427"
+    },
+    {
+      "id": "990646847079",
+      "title": "Фанк",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646847079",
+      "play_id": "61206877"
+    },
+    {
+      "id": "990646847070",
+      "title": "Песня для девочек",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646847070",
+      "play_id": "150673836"
+    },
+    {
+      "id": "990646847061",
+      "title": "Рустем",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646847061",
+      "play_id": "107669782"
+    },
+    {
+      "id": "990646847052",
+      "title": "45 лет",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646847052",
+      "play_id": "4899760"
+    },
+    {
+      "id": "990646847046",
+      "title": "Всё решено",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646847046",
+      "play_id": "802"
+    },
+    {
+      "id": "990646847022",
+      "title": "Кайен",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646847022",
+      "play_id": "79737908"
+    },
+    {
+      "id": "990646847013",
+      "title": "Он постоянно",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646847013",
+      "play_id": "147452401"
+    },
+    {
+      "id": "990646847007",
+      "title": "Лишь однажды",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646847007",
+      "play_id": "37077865"
+    },
+    {
+      "id": "990646846989",
+      "title": "Наше лето",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646846989",
+      "play_id": "146636342"
+    },
+    {
+      "id": "990646846983",
+      "title": "Русский рок",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646846983",
+      "play_id": "132742640"
+    },
+    {
+      "id": "990646846965",
+      "title": "Серёжа",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646846965",
+      "play_id": "61249332"
+    },
+    {
+      "id": "990646846959",
+      "title": "Первомай",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646846959",
+      "play_id": "73869153"
+    },
+    {
+      "id": "990646846932",
+      "title": "Gay Porn",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646846932",
+      "play_id": "4765029"
+    },
+    {
+      "id": "990646846923",
+      "title": "Так гріє",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646846923",
+      "play_id": "95325264"
+    },
+    {
+      "id": "990646846911",
+      "title": "Дешёвые драмы",
+      "cover": "avatars.yandex.net/get-music-content/49876/263fd90c.p.453589/%%",
+      "artist": "Валентин Стрыкало",
+      "artist_id": "453589",
+      "file": "646846911",
+      "play_id": "139999932"
     }
   ],
   "albums": [
