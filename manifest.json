@@ -154,7 +154,8 @@
         }
       ],
       "cover": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F8b769bd8c44e6fc60a0ecc8373c6a6f5.1000x1000x1.jpg",
-      "artist_cover": "avatars.yandex.net/get-music-content/16508792/ebb977d3.p.755171/%%"
+      "artist_cover": "avatars.yandex.net/get-music-content/16508792/ebb977d3.p.755171/%%",
+      "host": "13484452"
     }
   ]
 }
