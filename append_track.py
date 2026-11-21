@@ -19,6 +19,15 @@ import subprocess
 import sys
 from pathlib import Path
 
+# Windows consoles default to cp1251 here, which destroys non-ASCII characters
+# in pasted paths (Ó, Í, кириллица). Force UTF-8 for all console I/O so the
+# script works without any `chcp` / env-var commands.
+for _stream in (sys.stdin, sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
+
 ROOT = Path(__file__).resolve().parent
 MANIFEST = ROOT / "manifest.json"
 TRACKS = ROOT / "tracks"
@@ -102,10 +111,13 @@ def put_file(track_id, url):
     if not url:
         return target.exists(), None
     if not url.startswith("http"):
+        # "Copy as path" in Explorer wraps the path in quotes
+        url = url.strip().strip('"').strip("'")
         src = Path(url).expanduser()
         if not src.exists():
             print("file not found:", src)
-            return False, None
+            print("rename the file to an ASCII-only path and try again")
+            sys.exit(1)
         if DRY:
             print("[dry-run] copy", src, "->", target)
             return True, None
@@ -185,7 +197,18 @@ def main():
         cover = thumb
     repair = False
     if has_file:
-        repair = say("Need the trex/sidx repair? (y/N) ").lower() in ("y", "yes", "д", "да")
+        # Only FckCensor-style segmented MP4 (moov+trex+sidx) needs the fix.
+        # Plain MP3/AAC from yt-dlp or a local file must NOT get repair:true,
+        # otherwise the mod silently falls back to the censored Yandex audio.
+        try:
+            head = (TRACKS / str(track_id)).read_bytes()[:2 * 1024 * 1024]
+            detected = b"trex" in head or b"sidx" in head
+        except Exception:
+            detected = False
+        hint = "Y/n" if detected else "y/N"
+        answer = say("Segmented FckCensor MP4 with trex/sidx? [%s] " % hint).lower().strip()
+        repair = (answer in ("y", "yes", "д", "да")) if answer else detected
+        print("repair flag:", repair)
 
     entry = {"id": track_id}
     if title:
