@@ -2941,5 +2941,85 @@
     "151855581",
     "152140598",
     "152439616"
+  ],
+  "config": {
+    "fallback_play_id": "10008"
+  },
+  "search_aliases": {
+    "апельсин": {
+      "track_id": "990151855603"
+    },
+    "990151855603": {
+      "track_id": "990151855603"
+    },
+    "condorn": {
+      "album_id": "990525099810"
+    },
+    "dorn": {
+      "album_id": "990525099810"
+    }
+  },
+  "featured_albums": [
+    {
+      "role": "orange",
+      "album_id": "42285953",
+      "track_id": "990151855603",
+      "source_id": "151855603",
+      "title": "Апельсин",
+      "duration_ms": 140618,
+      "artist_name": "CUPSIZE",
+      "artist_id": "10946087",
+      "cover": "avatars.yandex.net/get-music-content/19752797/6adc73db.a.42285953-1/%%",
+      "search_aliases": [
+        "апельсин"
+      ]
+    },
+    {
+      "role": "ksb",
+      "album_id": "28396377",
+      "cover": "avatars.yandex.net/get-music-content/16406615/5c99d5c5.a.28396377-2/%%",
+      "tracks": [
+        {
+          "track_id": "138778164",
+          "title": "Сахарная пудра",
+          "duration_ms": 122370
+        },
+        {
+          "track_id": "119689460",
+          "title": "15",
+          "duration_ms": 110838
+        },
+        {
+          "track_id": "119689461",
+          "title": "Любовь",
+          "duration_ms": 142237
+        },
+        {
+          "track_id": "119689463",
+          "title": "Саппорт",
+          "duration_ms": 0
+        },
+        {
+          "track_id": "119689464",
+          "title": "Изврат",
+          "duration_ms": 140016
+        },
+        {
+          "track_id": "119689465",
+          "title": "Руинеры",
+          "duration_ms": 0
+        },
+        {
+          "track_id": "119689467",
+          "title": "Зима",
+          "duration_ms": 0
+        },
+        {
+          "track_id": "119689469",
+          "title": "Друг",
+          "duration_ms": 0
+        }
+      ]
+    }
   ]
 }
